@@ -1,0 +1,36 @@
+baseURL = "https://northrop.tech/"
+languageCode = "en-us"
+title = "Northrop Tech"
+theme = "pulp"
+publishDir = "docs"
+
+[markup.goldmark.renderer]
+    unsafe = true # Allow user HTML tags
+
+[params]
+    author = "Andi Northrop"
+    avatar = "avatar.jpg"
+    # avatarDescription = "My avatar description"
+    favicon = "favicon.ico"
+    description = """
+        I work as part of the fantastic QA team for AgileBits – makers of the brilliant password manager <a href="https:1password.com" target="_blank">1Password</a>.<br /><br />
+I love IT and web projects and helping people out with finding and using tech to their advantage.<br /><br />
+Feel free to say "Hi!" via Twitter 🙂
+    """
+    publicationYear = "2020"
+    # listPageDateFormat = "January, 2006" # See https://gohugo.io/functions/format/
+    # singlePageDateFormat = "January 2, 2006"
+    custom_css = ["/css/custom.css"]
+    # custom_js = ["/js/custom.js"]
+
+# Make sure setting a following option for search bar to work
+[outputs]
+    section = ["JSON", "HTML"]
+    taxonomy = ["JSON", "HTML"]
+
+[[menu.main]]
+    identifier = "twitter"
+    # name = "Twitter"
+    pre = "<i class='fab fa-twitter fa-lg'></i>"
+    url = "https://twitter.com/SpinyN0rman"
+    weight = 20
