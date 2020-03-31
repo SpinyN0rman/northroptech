@@ -15,7 +15,7 @@ publishDir = "docs"
     description = """
         I work as part of the fantastic QA team for AgileBits – makers of the brilliant password manager <a href="https:1password.com" target="_blank">1Password</a>.<br /><br />
 I love IT and web projects and helping people out with finding and using tech to their advantage.<br /><br />
-Feel free to say "Hi!" via Twitter 🙂
+Feel free to say "Hi!" on Twitter 🙂
     """
     publicationYear = "2020"
     # listPageDateFormat = "January, 2006" # See https://gohugo.io/functions/format/
