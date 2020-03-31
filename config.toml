@@ -10,7 +10,7 @@ publishDir = "docs"
 [params]
     author = "Andi Northrop"
     avatar = "avatar.jpg"
-    # avatarDescription = "My avatar description"
+    avatarDescription = "Me holding an ice cream"
     favicon = "favicon.ico"
     description = """
         I work as part of the fantastic QA team for AgileBits – makers of the brilliant password manager <a href="https:1password.com" target="_blank">1Password</a>.<br /><br />
