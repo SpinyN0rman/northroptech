@@ -1,3 +1,20 @@
 body {
-	background-color: #EFEFEF;
+	background-color: #EF71E4;
+	color: #2BFAFA;
+}
+
+img.avatar-border {
+	filter: brightness(0) saturate(100%) invert(98%) sepia(57%) saturate(2830%) hue-rotate(127deg) brightness(105%) contrast(96%);
+}
+
+a:visited {
+	color: #2BFAFA;
+}
+
+a:link {
+	color: #2BFAFA;
+}
+
+a:hover {
+	color: #2BFAFA;
 }
