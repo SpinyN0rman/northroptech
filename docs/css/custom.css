@@ -1,6 +1,6 @@
 body {
-	background-color: #EF71E4;
-	color: #2BFAFA;
+	background-color: #d65780;
+	color: #adf5ff;
 }
 
 img.avatar-border {
@@ -8,13 +8,13 @@ img.avatar-border {
 }
 
 a:visited {
-	color: #2BFAFA;
+	color: #adf5ff;
 }
 
 a:link {
-	color: #2BFAFA;
+	color: #adf5ff;
 }
 
 a:hover {
-	color: #2BFAFA;
+	color: #adf5ff;
 }
