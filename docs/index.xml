@@ -2,12 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Northrop Tech</title>
-    <link>https://northrop.tech/</link>
+    <link>https://northrop.uk/</link>
     <description>Recent content on Northrop Tech</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	<atom:link href="https://northrop.tech/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://northrop.uk/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>
