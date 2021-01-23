@@ -18,3 +18,8 @@ a:link {
 a:hover {
 	color: #adf5ff;
 }
+
+.logo-img {
+	padding-bottom: 2em;
+	width: 85%;
+}
